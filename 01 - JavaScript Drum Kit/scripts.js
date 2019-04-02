@@ -23,7 +23,4 @@ let Drum = (function () {
 
     window.addEventListener('keydown', _playSound)
 
-    return {
-        _playSound
-    }
 })();
